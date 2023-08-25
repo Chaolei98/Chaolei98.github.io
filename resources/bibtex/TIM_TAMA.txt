@@ -1,0 +1,9 @@
+@article{han2022understanding,
+  title={Understanding and improving channel attention for human activity recognition by temporal-aware and modality-aware embedding},
+  author={Han, Chaolei and Zhang, Lei and Tang, Yin and Xu, Shige and Min, Fuhong and Wu, Hao and Song, Aiguo},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={71},
+  pages={1--12},
+  year={2022},
+  publisher={IEEE}
+}
